@@ -1,0 +1,1 @@
+SELECT CAST('2024-11-05' AS DATE) AS ConvertedDate;
